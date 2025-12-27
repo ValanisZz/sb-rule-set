@@ -3,14 +3,16 @@
 	"rules": [
 		{
 			"domain_suffix": [
-				"minecraft.wiki",
-				"leetify.com",
-				"xiaomi.eu",
-				"deskmodder.de",
-				"samfw.com",
-				"supercell.com",
-				"pzwiki.net",
-				"ioi.dk"
+				".minecraft.wiki",
+				".leetify.com",
+				".xiaomi.eu",
+				".deskmodder.de",
+				".samfw.com",
+				".supercell.com",
+				".pzwiki.net",
+				".ioi.dk",
+				".godaddy.com",
+				".wsimg.com"
 			]
 		}
 	]
