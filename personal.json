@@ -3,23 +3,11 @@
 	"rules": [
 		{
 			"domain_suffix": [
-				".minecraft.wiki",
-				".leetify.com",
-				".xiaomi.eu",
-				".deskmodder.de",
-				".samfw.com",
 				".supercell.com",
-				".pzwiki.net",
-				".ioi.dk",
-				".godaddy.com",
 				".wsimg.com",
-				".namebright.com",
-				".whois.com",
-				".senko.digital",
-				".frida.re",
-				".brightpattern.com",
 				".builder.io",
-				".notebookcheck-ru.com"
+				".alphacool.com",
+				".shop-cdn.com"
 			]
 		}
 	]
