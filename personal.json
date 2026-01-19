@@ -3,10 +3,9 @@
 	"rules": [
 		{
 			"domain_suffix": [
-				".supercell.com",
-				".wsimg.com",
-				".builder.io",
-				".alphacool.com",
+				"wsimg.com",
+				"builder.io",
+				"alphacool.com",
 				"shop-cdn.com"
 			]
 		}
