@@ -14,6 +14,11 @@
       "source_ip_cidr": [
         "46.4.20.0/24"
       ]
-		}
-	]
+		},
+    {
+      "type": "logical",
+      "mode": "or",
+      "rules": []
+    }
+  ]
 }
