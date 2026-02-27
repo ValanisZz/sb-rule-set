@@ -11,14 +11,9 @@
         "allawnos.com",
         "vb-audio.com"
 			],
-      "source_ip_cidr": [
+      "ip_cidr": [
         "46.4.20.0/24"
       ]
-		},
-    {
-      "type": "logical",
-      "mode": "or",
-      "rules": []
-    }
+		}
   ]
 }
