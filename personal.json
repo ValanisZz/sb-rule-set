@@ -2,15 +2,18 @@
 	"version": 1,
 	"rules": [
 		{
-			"domain_suffix": [
-				"wsimg.com",
-				"builder.io",
-				"alphacool.com",
-				"shop-cdn.com",
+      "domain_suffix": [
+        "wsimg.com",
+        "builder.io",
+        "alphacool.com",
+        "shop-cdn.com",
         "digitaloceanspaces.com",
         "allawnos.com",
         "vb-audio.com"
-			]
+			],
+      "source_ip_cidr": [
+        "46.4.20.0/24"
+      ]
 		}
 	]
 }
