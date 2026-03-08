@@ -14,7 +14,8 @@
         "fastcup.net",
         "lichess.org",
         "enchor.us",
-        "rhythmverse.co"
+        "rhythmverse.co",
+        "gameserver.cloud"
 			],
       "ip_cidr": [
         "46.4.20.10",
