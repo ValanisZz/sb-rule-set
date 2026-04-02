@@ -18,7 +18,10 @@
         "gameserver.cloud",
         "usps.com",
         "sourceforge.net",
-        "claude.com"
+        "claude.com",
+        "medtronicdiabetes.ca",
+        "medtronic-diabetes.co.uk",
+        "diabetes.shop"
 			],
       "ip_cidr": [
         "46.4.20.10",
