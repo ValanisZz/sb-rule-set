@@ -3,6 +3,7 @@
 	"rules": [
 		{
       "domain_suffix": [
+        "adguard-dns.com",
         "wsimg.com",
         "builder.io",
         "alphacool.com",
