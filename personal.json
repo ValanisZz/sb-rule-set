@@ -1,33 +1,32 @@
 {
-	"version": 1,
-	"rules": [
-		{
+  "version": 1,
+  "rules": [
+    {
       "domain_suffix": [
         "adguard-dns.com",
-        "wsimg.com",
-        "builder.io",
-        "alphacool.com",
-        "shop-cdn.com",
-        "digitaloceanspaces.com",
         "allawnos.com",
-        "vb-audio.com",
-        "retrocultmods.com",
-        "fastcup.net",
-        "enchor.us",
-        "rhythmverse.co",
-        "gameserver.cloud",
-        "usps.com",
-        "sourceforge.net",
-        "claude.com",
-        "medtronicdiabetes.ca",
-        "medtronic-diabetes.co.uk",
-        "diabetes.shop",
-        "go-mpulse.net",
-        "cookielaw.org",
         "alphacephei.com",
+        "alphacool.com",
         "azattyqasia.org",
-        "istories.media"
-			]
-		}
+        "builder.io",
+        "claude.com",
+        "cookielaw.org",
+        "diabetes.shop",
+        "digitaloceanspaces.com",
+        "enchor.us",
+        "fastcup.net",
+        "gameserver.cloud",
+        "go-mpulse.net",
+        "medtronic-diabetes.co.uk",
+        "medtronicdiabetes.ca",
+        "retrocultmods.com",
+        "rhythmverse.co",
+        "shop-cdn.com",
+        "sourceforge.net",
+        "usps.com",
+        "vb-audio.com",
+        "wsimg.com"
+      ]
+    }
   ]
 }
