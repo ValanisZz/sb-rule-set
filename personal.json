@@ -41,6 +41,11 @@
         "spiritcroc.de",
         "mycdn.ink"
       ]
+    },
+    {
+      "ip_cidr": [
+        "62.182.195.176/32"
+      ]
     }
   ]
 }
